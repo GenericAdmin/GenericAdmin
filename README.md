@@ -1,6 +1,6 @@
 - 👋 Hello, I’m @GenericAdmin
 - 🔩 A generalist in a specialized world
-- ☁️ I’m currently working on automation and ground to cloud transformations
+- ☁️ I’m currently working on automation, SRE and ground to cloud transformations
 - 📫 How to reach me: <a href="www.linkedin.com/in/samuelsanderson">LinkedIn</a>
 
 
