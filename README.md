@@ -1,7 +1,7 @@
 - 👋 Hello, I’m @GenericAdmin
 - 🔩 A generalist in a specialized world
 - ☁️ I’m currently working on automation, SRE and ground to cloud transformations
-- 📫 How to reach me: <a href="www.linkedin.com/in/samuelsanderson">LinkedIn</a> <a href="twitter.com/genericadm1n">Twitter</a> 
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/samuelsanderson">LinkedIn</a> <a href="https://twitter.com/genericadm1n">Twitter</a> 
 
 
 <!---
